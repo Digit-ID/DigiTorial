@@ -1,0 +1,13 @@
+{
+  "name": "DigiTorial · Digit",
+  "short_name": "DigiTorial",
+  "description": "Recursos Humanos da Digit — férias, aprovações, recibos e documentos",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#FBFAF7",
+  "theme_color": "#1F6FEB",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
